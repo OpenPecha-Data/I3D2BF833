@@ -1,15 +1,16 @@
-id: opecha:P008138
+id: P008138
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4218
   title: གསུང་ཐོར་བུ། དགེ་འདུན་ཆོས་སྐྱོང་རྒྱ་མཚོ
-  volume:
+  author: ''
+  volumes:
     5aa3c5510d6f41bb81a66dd768fb7e79:
       image_group_id: I1PD97329
       title: Volume 1 of gsung thor bu/_dge 'dun chos skyong rgya mtsho
       volume_number: 1
       total_pages: 728
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསུང་ཐོར་བུ། དགེ་འདུན་ཆོས་སྐྱོང་རྒྱ་མཚོ
   author: ''
